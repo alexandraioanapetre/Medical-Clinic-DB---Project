@@ -1,6 +1,7 @@
 # Medical-Clinic-DB---Project
 
 RO
+
 Proiectul Medical Clinic DB este o baza de date creata in SQL care stocheaza informatii despre o clinica medicala. 
 Baza de date include urmatoarele tabele:
 
@@ -17,6 +18,7 @@ Facturi: Acest tabel stocheaza informatii despre facturile pacientilor, cum ar f
 ***
 
 EN
+
 The Medical Clinic DB project is a database created in SQL that stores information about a medical clinic. The database includes the following tables:
 
 Doctors: This table stores information about the clinic's doctors, such as name, surname, specialization, phone number and email address.
